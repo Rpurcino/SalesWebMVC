@@ -559,7 +559,7 @@ progress {
 }
 
 .list-inline-item {
-  display: inline-block;
+  display: inline;
 }
 .list-inline-item:not(:last-child) {
   margin-right: 0.5rem;
